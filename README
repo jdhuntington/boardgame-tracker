@@ -1,0 +1,16 @@
+# boardgame-tracker
+
+Webapp to track plays of various boardgames. Uses boardgamegeek.com as
+a data source for game details.
+
+## Usage
+
+Go to the URL.
+
+## Installation
+
+FIXME: write
+
+## License
+
+MIT
